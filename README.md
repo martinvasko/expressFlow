@@ -3,7 +3,7 @@ expressFlow
 
 expressFlow - Let your files flow
 
-Welcome to the GitHub repository of expressFlow.
+Welcome to the GitHub repository of http://www.expressFlow.com
 
 We are preparing the publication of our open-source engine.
 
