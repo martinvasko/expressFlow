@@ -1,13 +1,15 @@
 expressFlow
 ===========
 
-expressFlow - Let your files flow
+expressFlow - Encrypt your files with a drop
 
 Welcome to the GitHub repository of http://www.expressFlow.com
 
-We are preparing the publication of our open-source engine.
+- DevFestWest 2013 Talk (Google Drive, Google Cloud Storage Client Samples):
+[Eclipse Project](https://github.com/martinvasko/expressFlow/DevFestWest2013)
+[Sample GAE app](https://clouddropsample.appspot.com)
 
-Stay tuned or fork this repo to get informed.
+Encrypt your files with a drop!
 
-Cheers,
-Your expressFlow Team
+Enjoy,
+your expressFlow Team
